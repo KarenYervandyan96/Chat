@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "ChatApp\ChatApp.csproj", "{2E456513-38D1-4F36-A5B9-17FE2D94585C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat", "Chat\Chat.csproj", "{A0FEB96D-63E7-4C45-B517-CE471B51D110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messenger", "Messenger\Messenger.csproj", "{9FE637C7-006A-4016-A2B7-DC20ABDBA3B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E456513-38D1-4F36-A5B9-17FE2D94585C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E456513-38D1-4F36-A5B9-17FE2D94585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E456513-38D1-4F36-A5B9-17FE2D94585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E456513-38D1-4F36-A5B9-17FE2D94585C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FEB96D-63E7-4C45-B517-CE471B51D110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FEB96D-63E7-4C45-B517-CE471B51D110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FEB96D-63E7-4C45-B517-CE471B51D110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FEB96D-63E7-4C45-B517-CE471B51D110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE637C7-006A-4016-A2B7-DC20ABDBA3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE637C7-006A-4016-A2B7-DC20ABDBA3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE637C7-006A-4016-A2B7-DC20ABDBA3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE637C7-006A-4016-A2B7-DC20ABDBA3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201844D5-88FF-470A-8BE2-89BC04361797}
+	EndGlobalSection
+EndGlobal

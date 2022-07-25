@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CCA65bdtMdjj5wbu8UG/x6Lc18xYxaPryuJanTQOO2UsojVi8yJZJcte8Arm3gjO1MH1s/uORrt6q1265dlSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kyervandyan\\source\\repos\\ChatApp\\MyMessenger\\MyMessenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyervandyan\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
